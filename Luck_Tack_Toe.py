@@ -89,5 +89,4 @@ def play_game():
         else:
             current_player = 'X'
 
-# Start the game
 play_game()
